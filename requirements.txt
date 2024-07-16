@@ -1,0 +1,6 @@
+torch
+ipykernel
+pillow
+gradio
+torchvision
+numpy
