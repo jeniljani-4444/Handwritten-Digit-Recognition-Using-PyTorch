@@ -3,4 +3,4 @@ ipykernel
 pillow
 gradio
 torchvision
-numpy
+numpy==1.26.4
